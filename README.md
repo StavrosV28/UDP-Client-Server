@@ -1,5 +1,3 @@
-Here is a **README** description for your **UDPClient/Server Chat Application** that you can use for your GitHub repository:
-
 ---
 
 # UDP Chat Application
